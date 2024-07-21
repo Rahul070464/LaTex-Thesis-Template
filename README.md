@@ -2,7 +2,8 @@ This repository provides a comprehensive LaTeX template for writing and structur
 
 Features
 
-Title Page: Includes your institute logo and necessary details.
+Title Page: 
+Includes your institute logo and necessary details.
 
 Abstract: A section to summarize your research.
 
